@@ -3,3 +3,5 @@ uvicorn
 librosa
 tensorflow
 numpy
+tensorflow-hub
+soundfile
